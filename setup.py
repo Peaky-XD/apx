@@ -7,12 +7,7 @@ setup(
     author="Your Name",
     author_email="x_spoilt@yahoo.com",  
     url="https://github.com/Peaky-XD/apx",
-    packages=find_packages(),
-    install_requires=[
-        "certifi"
-        "_socket",
-        "ssl",
-    ],
+    packages=find_packages())
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
