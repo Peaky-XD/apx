@@ -16,4 +16,5 @@
 You can install **apx** using pip:
 
 ```bash
-pip install git+https://github.com/Peaky-XD/apx.git
+git clone https://github.com/Peaky-XD/apx;cd apx;mv apx /data/data/com.termux/files/usr/lib/python3.11/site-packages
+
