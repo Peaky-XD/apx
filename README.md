@@ -16,4 +16,4 @@
 You can install **apx** using pip:
 
 ```bash
-pip install apx
+pip install git+https://github.com/Peaky-XD/apx.git
